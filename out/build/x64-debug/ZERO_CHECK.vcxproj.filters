@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\GitHub\LibTorch20\out\build\x64-debug\CMakeFiles\b74a343013011aed9cf35aa29d12317b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AF953CDB-FF27-33D5-A12B-354DB7A55F99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
