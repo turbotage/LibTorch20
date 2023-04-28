@@ -1,3 +1,0 @@
-D:/GitHub/LibTorch20/out/build/x64-debug/CMakeFiles/TestTorch20.dir
-D:/GitHub/LibTorch20/out/build/x64-debug/CMakeFiles/ALL_BUILD.dir
-D:/GitHub/LibTorch20/out/build/x64-debug/CMakeFiles/ZERO_CHECK.dir
