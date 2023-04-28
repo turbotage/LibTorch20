@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\Documents\GitHub\LibTorch20\src\main.ixx">
+    <ClCompile Include="D:\GitHub\LibTorch20\src\main.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\Documents\GitHub\LibTorch20\CMakeLists.txt" />
+    <CustomBuild Include="D:\GitHub\LibTorch20\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{3BA17642-BC47-3D3C-94A9-B57C9B7F8905}</UniqueIdentifier>
+      <UniqueIdentifier>{A4737112-7FDA-3CD2-8E73-E72EE4DD26BD}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

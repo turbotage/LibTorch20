@@ -50,7 +50,7 @@
         },
         "CMAKE_PREFIX_PATH": {
           "type": "FILEPATH",
-          "value": "$env{TORCH_CUDA_DIR}/nightly_release"
+          "value": "$env{TORCH_CUDA_DIR}/release"
         },
         "BUILD_CUDA": {
           "type": "BOOL",
@@ -85,7 +85,7 @@
         },
         "CMAKE_PREFIX_PATH": {
           "type": "FILEPATH",
-          "value": "$env{TORCH_CUDA_DIR}/nightly_release"
+          "value": "$env{TORCH_CUDA_DIR}/release"
         },
         "BUILD_CUDA": {
           "type": "BOOL",

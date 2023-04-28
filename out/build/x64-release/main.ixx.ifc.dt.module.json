@@ -1,7 +1,7 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "d:\\documents\\github\\libtorch20\\src\\main.ixx",
+        "Source": "d:\\github\\libtorch20\\src\\main.ixx",
         "ProvidedModule": "",
         "ImportedModules": [],
         "ImportedHeaderUnits": [
